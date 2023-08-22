@@ -1,3 +1,6 @@
 [submodule "firmware/mlib_devel"]
 	path = firmware/mlib_devel
 	url = git@github.com:realtimeradio/mlib_devel
+[submodule "software/pyadf435x"]
+	path = software/pyadf435x
+	url = https://github.com/realtimeradio/pyadf435x
